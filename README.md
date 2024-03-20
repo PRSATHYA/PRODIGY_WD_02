@@ -1,2 +1,2 @@
-# PRODIGY_WD_02
-Stop Watch
+
+Stop Watch using HTML, CSS and Javascript
